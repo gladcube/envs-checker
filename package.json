@@ -1,0 +1,15 @@
+{
+  "name": "envs-checker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glad-functions": "0.0.6",
+    "prelude-ls": "^1.1.2"
+  }
+}
