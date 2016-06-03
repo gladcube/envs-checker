@@ -1,4 +1,3 @@
-require! \child_process
 {throws, does-not-throw} = require \assert
 
 module.exports = new class EnvsCheckerAssertion

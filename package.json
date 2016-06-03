@@ -1,6 +1,6 @@
 {
   "name": "envs-checker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
-    "glad-functions": "0.0.6",
+    "glad-functions": "0.0.16",
+    "livescript": "^1.5.0",
     "prelude-ls": "^1.1.2"
   }
 }
